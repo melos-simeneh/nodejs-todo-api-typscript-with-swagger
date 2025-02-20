@@ -1,4 +1,4 @@
-# Todo API with Express.js & Swagger
+# Todo API with Express.js & Swagger (TypeScript Version)
 
 A simple **Todo API** built using **Express.js** for managing todos. This API allows users to perform **CRUD**(Create, Read, Update, Delete) operations on todos. The API documentation is available via **Swagger UI** for easy testing and usage.
 
@@ -16,6 +16,7 @@ A simple **Todo API** built using **Express.js** for managing todos. This API al
 
 - Node.js (version 14 or above)
 - npm (Node Package Manager)
+- TypeScript (You can install it globally with `npm install -g typescript`)
 
 ### Steps to Run
 
