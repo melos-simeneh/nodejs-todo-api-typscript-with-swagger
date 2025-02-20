@@ -10,7 +10,7 @@ const swaggerOptions = {
       description: "A simple Express API to manage todos",
     },
   },
-  apis: ["./routes/todo.routes.ts", "./controllers/todo.controller.ts"],
+  apis: ["./routes/todo.routes.ts"],
 };
 
 const setupSwagger = () => {
